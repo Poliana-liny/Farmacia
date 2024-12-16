@@ -1,0 +1,12 @@
+Dipirona 500mg,100,Caixa
+Tilenol 200ml xsptk72,300,Frasco de 200ml
+Paracetamol,10,Comprimido
+Ibuprofeno,20,Frasco de 100ml
+Dipirona,15,Frasco de 200ml
+Amoxicilina,30,Cápsula 500mg
+Loratadina,25,Comprimido 10mg
+Omeprazol,50,Cápsula 20mg
+Diclofenaco,40,Comprimido 50mg
+Cetirizina,35,Comprimido 10mg
+Fluoxetina,45,Cápsula 20mg
+Acetilcisteína,20,Frasco de 100ml
